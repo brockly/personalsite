@@ -4,7 +4,7 @@ This is the official repository for Alex Brockman's personal site. If you would 
 
 ## Bugs and Issues
 
-Have a bug or an issue with the sote? Please open an issue to let me know.
+Have a bug or an issue with the site? Please open an issue to let me know.
 
 ## Credits
 
