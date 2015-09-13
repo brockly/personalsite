@@ -10,6 +10,6 @@ Have a bug or an issue with the site? Please open an issue to let me know.
 
 My website is based on the [Freelancer](http://startbootstrap.com/template-overviews/freelancer/) theme created by [Start Bootstrap](http://startbootstrap.com/).
 
-## Copyright and License
+## Copyright
 
 Copyright 2015 Alex Brockman
