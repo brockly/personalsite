@@ -12,4 +12,4 @@ My website is based on the [Freelancer](http://startbootstrap.com/template-overv
 
 ## Copyright
 
-Copyright 2016 Alex Brockman
+Copyright 2017 Alex Brockman
